@@ -1,16 +1,39 @@
-## Hi there 👋
+Hi, I'm Sujit Yadav 👋
 
-<!--
-**sujityadav072007-del/sujityadav072007-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Software Engineer | BSc IT
 
-Here are some ideas to get you started:
+I'm building a strong foundation in software development by learning core programming concepts and creating practical projects. I enjoy solving problems, improving my code, and learning how real-world applications are built.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About Me
+
+- 🎓 BSc in Information Technology
+- 💻 Practicing Python, SQL, HTML, and CSS
+- 🌱 Strengthening my programming fundamentals and software-development skills
+- 🛠️ Building practical projects and learning through hands-on work
+
+Technical Skills
+
+- Programming: Python
+- Database: SQL, DBMS
+- Web: HTML, CSS
+- Tools: Git, GitHub
+
+Featured Project
+
+"Python Data Quality Checker" (https://github.com/sujityadav072007-del/python-data-quality-checker)
+
+A Python command-line tool for checking CSV data quality. It can identify missing values and duplicate rows, validate numeric and date fields, check numeric ranges, and export a JSON report.
+
+What I'm Working Toward
+
+- Building more practical Python and software-development projects
+- Improving code quality, testing, and problem-solving
+- Growing into a software engineering role
+
+Connect
+
+- GitHub: "@sujityadav072007-del" (https://github.com/sujityadav072007-del)
+
+---
+
+Always learning. Always building.
